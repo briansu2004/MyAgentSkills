@@ -22,6 +22,8 @@ Scenario 2
 
 Scenario 3
 
+![1773200215742](image/README/1773200215742.png)
+
 ## Reference
 
 ### Use Agent Skills in VS Code
