@@ -12,7 +12,15 @@ This repo has all of my agent skills.
 
 <https://levelup.gitconnected.com/the-simple-guide-to-agent-skills-3d510521f11a> -->
 
+Scenario 1
+
 ![1773199830306](image/README/1773199830306.png)
+
+Scenario 2
+
+![1773199971937](image/README/1773199971937.png)
+
+Scenario 3
 
 ## Reference
 
